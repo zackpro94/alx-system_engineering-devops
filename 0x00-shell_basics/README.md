@@ -1,2 +1,2 @@
-this is the second 
-directory
+this is the second directory
+
