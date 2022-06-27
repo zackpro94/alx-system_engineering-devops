@@ -1,0 +1,1 @@
+scripting about shell redirection
